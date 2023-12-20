@@ -8,4 +8,7 @@ return {
     end,
     ft = { "markdown" },
   },
+  {
+    "plasticboy/vim-markdown",
+  },
 }
