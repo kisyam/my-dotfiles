@@ -7,6 +7,6 @@ foo.*
 *.log
 data
 /snippets/
-.lazy-lock.json
-.lazyvim.json
+lazy-lock.json
+lazyvim.json
 .DS_Store
